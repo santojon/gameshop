@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "The Evil Within 2",
+      "description": "Description",
+      "price": 89.9,
+      "image": "https://s1.gaming-cdn.com/images/products/2133/orig/the-evil-within-2-cover.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Terraria",
+      "description": "Description",
+      "price": 15.9,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/A1rMTA3SciL.png"
+    },
+    {
+      "id": 3,
+      "name": "Scourge: Outbreak",
+      "description": "Description",
+      "price": 57.85,
+      "image": "https://steamcdn-a.akamaihd.net/steam/apps/227560/header.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Star Wars: The Force Unleashed - Ultimate Sith Edition",
+      "description": "Description",
+      "price": 120,
+      "image": "https://images.gog.com/5dc39b9a86981b24d8abd9f42667627bd000057ea8bb07a9699a845719ef428c_product_card_v2_mobile_slider_639.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Star Wars: The Force Unleashed 2",
+      "description": "Description",
+      "price": 120,
+      "image": "https://steamcdn-a.akamaihd.net/steam/apps/32500/header.jpg"
+    }
+  ]
+}

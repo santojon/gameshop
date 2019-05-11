@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Games Shop</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="password_conf">Password Confirmation</string>
+    <string name="login">Login</string>
+    <string name="create_user">Not Registered? Register Now!</string>
+    <string name="register_user">Register</string>
+    <string name="incorret_credentials">Incorrect Email or Password!</string>
+    <string name="incorret_confirmation">Password and Password Confirmation are different!</string>
+    <string name="product_title">Title</string>
+    <string name="product_price">00.00</string>
+    <string name="BRL">R\u0024</string>
+    <string name="orders">Orders</string>
+    <string name="add_product">New Product</string>
+    <string name="logout">Log Out</string>
+    <string name="user_settings">User Settings</string>
+    <string name="cart">Cart</string>
+    <string name="cart_add">Add to Cart</string>
+    <string name="added_to_cart">Added to Cart</string>
+    <string name="finish">Finish Order</string>
+    <string name="total">Total:</string>
+    <string name="product_description">Description</string>
+    <string name="hash">#</string>
+    <string name="order_number">0</string>
+    <string name="order_title">0 Items</string>
+</resources>

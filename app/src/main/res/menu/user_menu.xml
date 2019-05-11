@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/cart"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:iconTint="@color/colorPrimaryDark"
+        android:iconTintMode="src_over"
+        android:title="@string/cart"
+        android:tooltipText="@string/cart"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/user_settings"
+        android:icon="@drawable/user_icon"
+        android:iconTint="@color/colorPrimaryDark"
+        android:title="@string/user_settings"
+        android:tooltipText="@string/user_settings"
+        app:showAsAction="always">
+
+        <menu>
+            <item
+                android:id="@+id/orders"
+                android:title="@string/orders"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/logout"
+                android:title="@string/logout"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+</menu>
